@@ -5,6 +5,7 @@ This application enables users to record piano sessions from multiple angles and
 **Components:**
 
 **mic.py**: Manages audio recording using a USB microphone.
+
 **camera.py**: Oversees video recording from the camera.
 
 A server-client architecture is utilized to control the start/stop functions for both the camera and microphone recordings.
