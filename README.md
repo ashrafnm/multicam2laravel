@@ -24,6 +24,7 @@ Each "Level" directory represents a foundational stage of the application:
 5. Automating processes with scripts and terminal termination using subprocess.
 
 **How to Run:**
+
 Execute the command: python3 login.py
 
 **Workflow:**
