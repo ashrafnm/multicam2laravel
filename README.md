@@ -16,11 +16,11 @@ Each "Level" directory represents a foundational stage of the application:
 2. Provides a roadmap for future developers aiming to understand or replicate the project from its basics.
 
 **Learning Points:**
-1.Recording audio with Python.
-2.Video recording using cv2.
-3.Establishing a server-client relationship with sockets.
-4.Crafting a GUI for user authentication and master controls.
-5.Automating processes with scripts and terminal termination using subprocess.
+1. Recording audio with Python.
+2. Video recording using cv2.
+3. Establishing a server-client relationship with sockets.
+4. Crafting a GUI for user authentication and master controls.
+5. Automating processes with scripts and terminal termination using subprocess.
 
 **How to Run:**
 Execute the command: python3 login.py
